@@ -34,3 +34,4 @@ Ce projet est une plateforme e-commerce de gestion de produits, de gestion de co
 
    ```bash
    git clone https://github.com/mto-chups/ecommerce.git
+# e-commerce-1
