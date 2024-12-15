@@ -6,8 +6,8 @@ const path = require('path');
 const app = express();
 const port = 3000;
 
-const checkAuth = require('./middleware/checkAuth.js');
-const productsRouter = require('./routes/products.js'); 
+const checkAuth = require('./middleware/checkAuth');
+const productsRouter = require('./routes/products'); 
 const authRoutes = require('./routes/auth'); 
 const userRoutes = require('./routes/users');
 const cors = require('cors');
